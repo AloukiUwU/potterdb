@@ -1,10 +1,11 @@
-# potterdb-app
+# PotterDB App
 
-This template should help get you started developing with Vue 3 in Vite.
+This project was made as educationnal purposes. Its goal is to practice fetching data from APIs (in this case, it's a REST API) and use it on a frontend website. The theme is "Harry Potter". You will find pages about the main characters of the franchise, the potions, the spells and the books.
+Made by Denis Trimolet & Raphaël Rifault
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/)
 
 ## Customize configuration
 
@@ -26,16 +27,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
